@@ -1,0 +1,7 @@
+body{
+    background-color: pink;
+}
+.borda{
+    border: 5px solid black;
+    margin-top: 3
+}
