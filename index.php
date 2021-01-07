@@ -1,6 +1,9 @@
 <?php
 
 //Meu código PHP vem aqui.khjgvbjhgv
+
+//Manu meu amorrrrrrrrr!!!
+
 $pg = isset($_GET['pg']);
 
 if ($pg) {
